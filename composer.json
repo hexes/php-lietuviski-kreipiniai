@@ -13,8 +13,5 @@
             "name": "Marius",
             "email": "dev@onto.lt"
         }
-    ],
-    "require-dev": {
-        "phpunit/phpunit": "^10.3"
-    }
+    ]
 }
