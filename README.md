@@ -10,21 +10,21 @@
 
 To install this library, use the Composer package manager. Execute the following command:
 
-\`\`\`bash
+```bash
 composer require hexes/php-lietuviksi-kreipiniai
-\`\`\`
+```
 
 ## Usage
 
 Here's a simple example showing how to use the `toVocative` function:
 
-\`\`\`php
+```php
 require 'vendor/autoload.php';
 
 $name = "Jonas";
 $newName = toVocative($name);
 echo "Hello, $newName!";
-\`\`\`
+```
 
 In this example, `toVocative` will convert "Jonas" to "Jonai", and the output will be "Hello, Jonai!"
 
