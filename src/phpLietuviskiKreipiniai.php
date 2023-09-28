@@ -1,8 +1,8 @@
 <?php
 
-namespace LithuanianNameConverter;
+namespace Hexes;
 
-class NameConverter {
+class PhpLietuviskiKreipiniai {
 
     public function toVocative($name) {
 
